@@ -1,4 +1,4 @@
-package com.chseidler.exerciciossb.model;
+package com.chseidler.exerciciossb.model.entities;
 
 public class Cliente {
 	
